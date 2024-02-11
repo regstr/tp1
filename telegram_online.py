@@ -10,7 +10,7 @@ from telethon.sessions import StringSession
 api_id = 26741039
 api_hash = 'fe897b39141cb85d129800ce709bf9f1'
 session_file = 'session.pickle'
-contacts_file = 'account.txt'
+contacts_file = 'tp1/account.txt'
 phone_number = '+380664167171'
 import json
 
